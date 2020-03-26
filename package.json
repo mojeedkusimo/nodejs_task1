@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_task1",
+  "version": "1.0.0",
+  "description": "Creating a simple form and submitting a file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev" : "nodemon index" 
+  },
+  "author": "Mojeed Kusimo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
